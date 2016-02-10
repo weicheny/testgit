@@ -1,2 +1,3 @@
 # testgit
 testing purposes
+ignore 
